@@ -18,3 +18,5 @@ fi
 /bin/rm "$@"     
 
 exit 0
+echo "hello team, how are you?"
+
